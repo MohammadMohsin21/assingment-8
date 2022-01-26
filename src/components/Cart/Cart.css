@@ -1,0 +1,15 @@
+.total-cart{
+    background-color: gray;
+    color: white;
+    height: 500px;
+    margin: 5px;
+    border-radius: 10px;
+}
+.total-cart h2{
+    font-size: 22px;
+    text-align: center;
+    padding: 5px;
+}
+.total-div{
+    margin-left: 15px;
+}

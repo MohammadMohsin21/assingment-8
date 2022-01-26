@@ -1,6 +1,6 @@
-.App {
+/* .App {
   text-align: center;
-}
+} */
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +35,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+.user{
+  background-color: #61dafb;
+  color:white;
+  margin: 50px;
+  padding: 5px;
+  border-radius: 10px;
+  line-height: 5px;
 }
